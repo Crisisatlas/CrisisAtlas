@@ -4,7 +4,7 @@ const noticiass = [
   
     {
       titulo: "Guerra en Ucrania",
-      imagen: "/noticiasact/623ca5fd9.webp",
+      imagen: "noticiasact/623ca5fd9.webp",
       resumen: "El conflicto en Ucrania continúa con intensos combates y un alto número de desplazados. La invasión rusa ha llevado a una crisis humanitaria significativa, con miles de civiles muertos y millones de personas desplazadas.",
       enlace: "https://www.acnur.org/noticias/news-releases/sin-la-solidaridad-internacional-la-crisis-del-desplazamiento-de-ucrania"
     },
